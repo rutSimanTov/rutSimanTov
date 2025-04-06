@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Rut Siman-Tov🎉
+# 👋 Hi, I’m Rut Siman-Tov🎉
 
 ## About Me
 I am a full stack developer ✨ who enjoys writing code  and creating innovative solutions🔬.
@@ -12,10 +12,8 @@ Always ready for new challenges and determined to succeed🚀.
 🎨 Frontend: HTML, CSS, Bootstrap
 ☁️ DevOps: AWS Docker Git Render Clever-Cloud
 
-## Projects
-
 ## Contact
-- 📫 How to reach me: rut.developer@gmail.com
+ 📫 How to reach me: rut.developer@gmail.com
 
 
 
