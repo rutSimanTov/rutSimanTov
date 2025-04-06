@@ -1,4 +1,4 @@
-# <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handshake/handshake-original.svg" alt="Handshake" width="40" height="40"/></p> Hi, I’m Rut Siman-Tov🎉
+#  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handshake/handshake-original.svg" alt="Handshake" width="40" height="40"/> Hi, I’m Rut Siman-Tov🎉
 
 ## About Me
 I am a full stack developer ✨ who enjoys writing code  and creating innovative solutions 🔬.
