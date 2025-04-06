@@ -55,8 +55,8 @@
 
 
 
-## Contact
- 📫 How to reach me: rut.developer@gmail.com
+<!--## Contact
+  📫 How to reach me: rut.developer@gmail.com -->
 
 
 
