@@ -1,4 +1,4 @@
-#  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Handshake" width="40" height="40"/> Hi, I’m Rut Siman-Tov🎉
+#  Hi,<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Handshake" width="40" height="40"/>  I’m Rut Siman-Tov🎉
 
 ## About Me
 I am a full stack developer ✨ who enjoys writing code  and creating innovative solutions 🔬.
