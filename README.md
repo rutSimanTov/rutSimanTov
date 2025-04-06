@@ -1,4 +1,4 @@
-##👋 Hi, I’m Rut Siman-Tov🎉
+## 👋 Hi, I’m Rut Siman-Tov🎉
 
 ## About Me
 I am a full stack developer ✨ who enjoys writing code  and creating innovative solutions🔬.
