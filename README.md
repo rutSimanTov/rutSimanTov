@@ -118,7 +118,7 @@
     <img src="https://github.com/rutSimanTov/game-store/blob/main/images/render.png" alt="Render" title="Render Cloud" width="40" height="40"/>
   </a>
 </p>
--->
+
 ------------
 
 ### Programming Languages:
@@ -210,4 +210,48 @@
   <a href="https://render.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; outline: none !important;">
     <img src="https://github.com/rutSimanTov/game-store/blob/main/images/render.png" alt="Render" title="Render Cloud" width="40" height="40"/>
   </a>
+</p>
+-->
+
+
+
+### Programming Languages:
+<p align="left">
+  [![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com)
+  [![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org)
+  [![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org)
+  [![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+  [![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+  [![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com)
+</p>
+
+### Frameworks, Libraries and Frontend:
+<p align="left">
+  [![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)](https://angular.io)
+  [![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org)
+  [![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org)
+  [![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)](https://dotnet.microsoft.com)
+  [![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com)
+</p>
+
+### Operating Systems and Databases:
+<p align="left">
+  [![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg)](https://www.microsoft.com/en-us/windows)
+  [![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)](https://www.linux.org)
+  [![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com)
+  [![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)](https://www.microsoft.com/en-us/sql-server)
+  [![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com)
+</p>
+
+### DevOps:
+<p align="left">
+  [![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)](https://aws.amazon.com)
+  [![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://www.docker.com)
+  [![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com)
+  [![Clever-Cloud](https://github.com/rutSimanTov/game-store/blob/main/images/clever%20cloudpng.png)](https://www.clever-cloud.com)
+  [![Render Cloud](https://github.com/rutSimanTov/game-store/blob/main/images/render.png)](https://render.com)
 </p>
