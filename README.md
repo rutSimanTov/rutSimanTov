@@ -51,6 +51,8 @@
   <img src="https://www.clever-cloud.com/images/logos/clever-cloud.svg" alt="Clever-Cloud" width="40" height="40"/> -->
 <img src="https://render.com/images/favicon.png" alt="Render Cloud" width="40" height="40"/>
 <img src="https://www.clever-cloud.com/images/favicon-cc/favicon-512.png" alt="Clever Cloud" width="40" height="40"/>
+<img src="assets/render-cloud-logo.png" alt="Render Cloud" width="40" height="40"/>
+<img src="assets/clever-cloud-logo.png" alt="Clever Cloud" width="40" height="40"/>
 </p>
 
 
