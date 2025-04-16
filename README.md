@@ -49,7 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <!--   <img src="https://simpleicons.org/?q=render&modal=icon" alt="Render" width="40" height="40"/>
   <img src="https://www.clever-cloud.com/images/logos/clever-cloud.svg" alt="Clever-Cloud" width="40" height="40"/> -->
-  <p src="http://www.w3.org/2000/svg" alt="Clever-Cloud" width="40" height="40"/> 
+    <img src="https://github.com/rutSimanTov/game-store/blob/main/images/clevercloud.png" alt="Clever-Cloud" width="40" height="40"/> 
+
 
 </p>
 
