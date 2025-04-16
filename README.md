@@ -10,6 +10,7 @@
 
 ## Skills
 
+<!--
 -------------------
 
 ### Programming Languages: 
@@ -29,9 +30,9 @@
 
 ### Programming Languages:
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
-  </a>
+  </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
   </a>
@@ -117,7 +118,9 @@
     <img src="https://github.com/rutSimanTov/game-store/blob/main/images/render.png" alt="Render" title="Render Cloud" width="40" height="40"/>
   </a>
 </p>
+-->
 ------------
+
 ### Programming Languages:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none;">
