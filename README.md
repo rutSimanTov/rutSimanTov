@@ -52,6 +52,8 @@
     <img src="https://github.com/rutSimanTov/game-store/blob/main/images/clevercloud.png" alt="Clever-Cloud" width="40" height="40"/> 
     
 <img src="https://github.com/rutSimanTov/game-store/blob/main/images/render.png" alt="Render" width="40" height="40"/>
+    <img src="https://github.com/rutSimanTov/game-store/blob/main/images/clevercloud-color.svg
+" alt="Clever-Cloud" width="40" height="40"/> 
 
 </p>
 
