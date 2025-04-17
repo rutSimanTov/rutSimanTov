@@ -215,6 +215,7 @@
 </p>
 
 
+<!-- 
 ### DevOps:
 <p align="left">
   [![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg "AWS")](https://aws.amazon.com)
@@ -223,4 +224,4 @@
   [![Clever-Cloud](https://github.com/rutSimanTov/game-store/blob/main/images/clever%20cloudpng.png "Clever-Cloud")](https://www.clever-cloud.com)
   [![Render](https://github.com/rutSimanTov/game-store/blob/main/images/render.png "Render")](https://render.com)
 </p>
-
+-->
