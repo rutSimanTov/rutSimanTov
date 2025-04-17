@@ -215,6 +215,27 @@
 </p>
 
 
+### DevOps:
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" title="AWS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.clever-cloud.com" target="_blank" rel="noopener noreferrer" title="Clever-Cloud">
+    <img src="https://github.com/rutSimanTov/game-store/blob/main/images/clever%20cloudpng.png" alt="Clever-Cloud" title="Clever-Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://render.com" target="_blank" rel="noopener noreferrer" title="Render">
+    <img src="https://github.com/rutSimanTov/game-store/blob/main/images/render.png" alt="Render" title="Render" width="40" height="40"/>
+  </a>
+</p>
+
+
+
 <!-- 
 ### DevOps:
 <p align="left">
