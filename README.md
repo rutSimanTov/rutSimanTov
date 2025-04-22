@@ -12,6 +12,8 @@
 
 ### Programming Languages:
 
+
+    <a href="https://www.typescriptlang.org/"><img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></a>
   <a href="https://www.java.com" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
   </a>
