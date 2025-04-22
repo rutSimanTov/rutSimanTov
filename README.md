@@ -12,11 +12,11 @@
 
 ### Programming Languages:
 
-<p align="left">
+
   <a href="https://www.java.com" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; outline: none !important;">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; outline: none !important;">
@@ -37,7 +37,7 @@
   <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; outline: none !important;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" width="40" height="40"/>
   </a>
-</p>
+
 
 ### Frameworks, Libraries and Frontend:
 <p align="left">
